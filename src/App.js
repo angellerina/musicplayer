@@ -77,6 +77,10 @@ function App() {
         onEnded={songEndHandler}
        
       ></audio>
+
+      <footer>
+        <small>Made with love by <a href="https://rina-portfolio.netlify.app/">Rina</a></small>
+      </footer>
     </div>
   );
 }
